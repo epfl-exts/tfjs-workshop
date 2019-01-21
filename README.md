@@ -3,7 +3,7 @@
 
 # TensorFlow.js workshop
 
-Hands-on deep learning with TensorFlow.js
+Hands-on deep learning with TensorFlow.js - [Google docs slides](https://docs.google.com/presentation/d/1qTxk0OIiUX9gunQ5niX9nBSU7mZLpLDAn3--BuP1L80/edit?usp=sharing)
 
 * Part 1 - Build the network with TensorFlow in Python
 * Part 2 - Deploy it in a web app with TensorFlow.js
