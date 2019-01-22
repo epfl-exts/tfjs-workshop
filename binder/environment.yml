@@ -1,0 +1,16 @@
+name: amld19-tfjs
+channels:
+  - conda-forge
+dependencies:
+- python=3.6
+- pip
+- nodejs
+- numpy=1.15
+- matplotlib=3.0
+- tensorflow=1.12
+- notebook=5.7
+- jupyterlab=0.35
+- ipywidgets=7.4
+- pillow=5.3
+- pip:
+  - tensorflowjs
