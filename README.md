@@ -11,10 +11,16 @@ Hands-on deep learning with TensorFlow.js - [Google docs slides](https://docs.go
 Run the code from your browser!
 
 * Part 1 - [Run the Python code with mybinder.org](https://mybinder.org/v2/gh/pacm/tfjs-workshop/master) or [Google Colab](https://colab.research.google.com/)
-* Part 2 - [Run the web app with Observable notebooks](https://beta.observablehq.com/@xaris/doodle-recognition-with-tensorflow-js)
+* Part 2 - [Run the web app with Observable notebooks](https://beta.observablehq.com/@xaris/doodle-recognition-with-tensorflow-js) or [just the web app](https://epfl-exts.github.io/react-course-project/)
 
+Additional resources
 ---
 
-#### Resources:
+**TensorFlow.js**
 
-* [Doodle Web App Demo](https://epfl-exts.github.io/react-course-project/)
+* 2019 paper - [
+TensorFlow.js: Machine Learning for the Web and Beyond](https://arxiv.org/abs/1901.05350)
+
+**Deep learning**
+
+* Web app: [Google "deep" playground](https://github.com/tensorflow/playground)
