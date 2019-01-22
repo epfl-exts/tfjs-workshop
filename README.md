@@ -15,6 +15,6 @@ Run the code from your browser!
 
 ---
 
-Resources:
+#### Resources:
 
-* [Doodle Web App Demo](https://epfl-exts.github.io/react-course-project/){:target=""_blank}
+* [Doodle Web App Demo](https://epfl-exts.github.io/react-course-project/)
