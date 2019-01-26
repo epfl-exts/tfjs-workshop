@@ -26,3 +26,7 @@ Additional resources
 * [Pose detection demo](https://storage.googleapis.com/tfjs-models/demos/posenet/camera.html) and [blogpost](https://medium.com/tensorflow/real-time-human-pose-estimation-in-the-browser-with-tensorflow-js-7dd0bc881cd5) by the TensorFlow team
 * [Speech commands demo](https://storage.googleapis.com/tfjs-speech-model-test/2019-01-03a/dist/index.html) and [code](https://github.com/tensorflow/tfjs-models/tree/master/speech-commands) by the TensorFlow team
 * [Object detection demo](https://z364noozrm.codesandbox.io/) and [article](https://hackernoon.com/tensorflow-js-real-time-object-detection-in-10-lines-of-code-baf15dfb95b2) by Nick Bourdakos
+
+---
+
+[Updated Model](https://gist.githubusercontent.com/xaris/9c75fcd56986222464a4e9e805c42bde/raw/60c938cf0f8d73f749182a98bc6264db927dffaa/model.json)
